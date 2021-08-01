@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="29"
+   height="32"
+   viewBox="0 0 29 32"
+   fill="none"
+   version="1.1"
+   id="svg4"
+   sodipodi:docname="amp.svg"
+   inkscape:version="0.92.4 (5da689c313, 2019-01-14)">
+  <metadata
+     id="metadata10">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs8" />
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="732"
+     inkscape:window-height="480"
+     id="namedview6"
+     showgrid="false"
+     inkscape:zoom="7.375"
+     inkscape:cx="14.5"
+     inkscape:cy="16"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="svg4" />
+  <path
+     d="M10.7273 32C13.3333 32 16.1212 31.4091 18.6061 29.8182C18.6061 29.8182 18.6212 29.8182 18.6212 29.803L20.2424 31.5152H28.6061L23.6818 26.0909C25.8333 23.2273 26.7273 19.3788 26.7273 15.3333H20.1212C20.1212 17.3182 19.5909 19.1212 18.7273 20.6364L14.7576 16.2727L16.2424 15.2121C18.8939 13.3333 20.3636 10.7727 20.3636 7.87879C20.3636 3.57576 17.1515 0 11.9394 0C6.48485 0 2.84848 3.87879 2.84848 8.60606C2.84848 11.303 4.0303 13.6364 5.36364 15.5L5.33333 15.5152C2.12121 17.697 0 19.7879 0 23.2727C0 28.0758 4.04546 32 10.7273 32ZM13.9848 24.9091C13.1061 25.2576 12.2121 25.4545 11.3333 25.4545C9.28788 25.4545 8 24.4242 8 22.6667C8 21.4545 8.62121 20.697 9.40909 20.0606L13.9848 24.9091ZM11.0758 11.9545C10.1818 10.7727 9.63636 9.75758 9.63636 8.72727C9.63636 7.42424 10.5152 6.62121 11.9394 6.60606C13.4697 6.59091 14.1818 7.5 14.1818 8.48485C14.1818 9.24242 13.7727 10.2727 12.3636 11.1515L11.0758 11.9545Z"
+     fill="#FD00DF"
+     id="path2"
+     style="fill:#585858;fill-opacity:1" />
+</svg>
