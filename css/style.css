@@ -66,6 +66,8 @@ nav {
 	background-position: right, left;
 	background-repeat: no-repeat, repeat;
 	color: #1e1e1e;
+	font-family: "Roboto Mono", monospace;
+	font-weight: bold;
 }
 
 nav ul li {
