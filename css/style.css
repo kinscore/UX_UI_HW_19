@@ -3,6 +3,7 @@ body {
 	color: #dfdfdf;
 	padding: 0px;
 	margin: 0px;
+	font-family: "Open Sans", sans-serif;
 }
 
 .z { color: #1e1e1e; }
@@ -34,6 +35,26 @@ a {
 
 a:visited {
 	color: #611558;
+}
+
+button {
+	cursor: pointer;
+	display: inline-block;
+	background: #fd00df;
+	border: 3px solid #fd00df;
+	border-radius: 5px;
+	padding: 0px;
+	margin-left: 15px;
+	font-weight: bold;
+}
+
+button p {
+	border: 3px solid #1e1e1e;
+	border-radius: 5px;
+	padding: 5px;
+	margin: 0px;
+	vertical-align: middle;
+	font-size: 1.2rem;
 }
 
 nav {
@@ -80,6 +101,21 @@ div {
 
 #skills div {
 	padding: 1rem;
+}
+
+footer {
+	width: 100%;
+	padding-bottom: 2px;
+	background-image: linear-gradient(top, transparent 1.2rem, #611558 1.2rem, #611558 100%);
+	background-image: -webkit-linear-gradient(top, transparent 1.2rem, #611558 1.2rem, #611558 100%);
+	background-image: -moz-linear-gradient(top, transparent 1.2rem, #611558 1.2rem, #611558 100%);
+	background-image: -ms-linear-gradient(top, transparent 1.2rem, #611558 1.2rem, #611558 100%);
+	background-image: -o-linear-gradient(top, transparent 1.2rem, #611558 1.2rem, #611558 100%);
+}
+
+footer h2 {
+	text-align: left;
+	padding-left: 1rem;
 }
 
 footer ul li {
@@ -173,3 +209,33 @@ footer ul {
 	display: flex;
 	justify-content: space-around;
 }
+
+.ui-tooltip {
+	padding: 20px;
+	border-radius: 10px;
+	font-weight: bold;
+	color: #1e1e1e;
+}
+
+.ui-tooltip::after {
+	content: '';
+	position: absolute;
+	border-style: solid;
+	display: block;
+	width: 0;
+	left: 18px;
+	bottom: -10px;
+	border-width: 10px 10px 0;
+}
+
+.em-tooltip { background: #fd00df; }
+.em-tooltip::after { border-color: #fd00df transparent; }
+
+.why-tooltip { background: #fddf00; }
+.why-tooltip::after { border-color: #fddf00 transparent; }
+
+.in-tooltip {
+	background: #0077b7;
+	color: white;
+}
+.in-tooltip::after { border-color: #0077b7 transparent; }
