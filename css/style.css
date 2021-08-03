@@ -30,10 +30,18 @@ header div {
 
 a {
 	text-decoration: none;
-	color: #9a0d89;
+	color: #fddf00;
 }
 
 a:visited {
+	color: #9a890d;
+}
+
+nav a {
+	color: #9a0d89;
+}
+
+nav a:visited {
 	color: #611558;
 }
 
